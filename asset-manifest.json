@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sort-tickets/static/css/main.cd0f8a2e.chunk.css",
+    "main.js": "/Sort-tickets/static/js/main.4aa5fcd9.chunk.js",
+    "main.js.map": "/Sort-tickets/static/js/main.4aa5fcd9.chunk.js.map",
+    "runtime-main.js": "/Sort-tickets/static/js/runtime-main.188d6f47.js",
+    "runtime-main.js.map": "/Sort-tickets/static/js/runtime-main.188d6f47.js.map",
+    "static/js/2.3d39e71e.chunk.js": "/Sort-tickets/static/js/2.3d39e71e.chunk.js",
+    "static/js/2.3d39e71e.chunk.js.map": "/Sort-tickets/static/js/2.3d39e71e.chunk.js.map",
+    "index.html": "/Sort-tickets/index.html",
+    "precache-manifest.8bc0f162caa7eb5fc05c6089013e46f4.js": "/Sort-tickets/precache-manifest.8bc0f162caa7eb5fc05c6089013e46f4.js",
+    "service-worker.js": "/Sort-tickets/service-worker.js",
+    "static/css/main.cd0f8a2e.chunk.css.map": "/Sort-tickets/static/css/main.cd0f8a2e.chunk.css.map",
+    "static/js/2.3d39e71e.chunk.js.LICENSE.txt": "/Sort-tickets/static/js/2.3d39e71e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Sort-tickets/static/media/logo.66a91fa3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.188d6f47.js",
+    "static/js/2.3d39e71e.chunk.js",
+    "static/css/main.cd0f8a2e.chunk.css",
+    "static/js/main.4aa5fcd9.chunk.js"
+  ]
+}
