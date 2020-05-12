@@ -1,0 +1,39 @@
+.optionTickets
+    background: white
+    padding: 20px
+    border-radius: 10px
+    height: 200px
+
+.block-name
+    display: block
+    margin-bottom: 10px
+    
+.option-item
+    display: block
+
+    &:hover
+        background: #E5E5E5
+
+.list-options
+    display: grid
+    grid-template-columns: 50% 50%
+    margin-left: 10px
+
+
+.option-input
+    &+span
+        color: black
+        width: 100%
+        padding: 20px!important
+        height: auto!important
+        text-align: center
+        background: white
+        &::before, &::after
+            display: none
+            
+        
+    &:checked
+        &+span
+            background: #2196F3
+            color: white
+
